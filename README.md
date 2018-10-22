@@ -9,7 +9,7 @@ Writing code is really not as difficult as some people can make it seem. My goal
 The goal of this course is to ease you in to a language that can be quite complex, but also very simple.
 
 ## Lessons
-###  Intro to JavaScript & Git repositories
+###  Intro to JavaScript & Git Repos
  A simple intro to code and why it is necessary and a brief history of JavaScript
 ###   Variable Types
 Introduction to variables, their types, and why they are used.
