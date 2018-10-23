@@ -29,7 +29,7 @@ My favorite editor is [Visual Studio Code](https://code.visualstudio.com/), it i
 First thing we will do in this course is utilize GIT to pull this repository. When you `pull` a repository from GitHub it will take the most up to date version of that file-set and put it on your computer to edit.
 
 #### Step 1
-Open the `terminal` from your list of applications on your mac. It will look like this. ![Screen Shot 2018-10-22 at 8.55.57 PM](../../../Desktop/Screen Shot 2018-10-22 at 8.55.57 PM.png)
+Open the `terminal` from your list of applications on your mac. It will look like this. ![The Terminal](../Assets/1.png)
 When you open the terminal it will open in your home directory. This is the main folder in your computer.
 
 We will start of by using the command `mkdir <folder name>`
@@ -40,7 +40,7 @@ Type in `mkdir code`
 
 This will create a folder in your main directory called `code`! This is where we will put all of the code we will be writing in this course.
 
-![Screen Shot 2018-10-22 at 9.11.14 PM](../../../Desktop/Screen Shot 2018-10-22 at 9.11.14 PM.png)
+![mkdir!](../Assets/2.png)
 
 Now we will use the `ls` command.
 
@@ -48,12 +48,13 @@ Now we will use the `ls` command.
 
 Type `ls` and hit enter. It will show you a list of directories and folders. You should see your `code` directory!
 
-![Screen Shot 2018-10-22 at 9.12.57 PM](../../../Desktop/Screen Shot 2018-10-22 at 9.12.57 PM.png)
+![Look, its the Dir you made!](../Assets/3.png)
 
 Now we will use the `cd <folder name>` command.
 
 `cd` stands for change directory. We want to move to the `code` directory that we just created. Type `cd code`. This will do just that.
-![Screen Shot 2018-10-22 at 9.19.04 PM](../../../Desktop/Screen Shot 2018-10-22 at 9.19.04 PM.png)
+
+![Now we are in the Code dir!](../Assets/4.png)
 
 You will know it worked once you hit enter and the command line shows the your are in the `code` directory.
 
