@@ -60,3 +60,5 @@ You will know it worked once you hit enter and the command line shows the your a
 
 This is where we will download our GitHub Repository!
 
+When you download a repository it is called `pulling`. 
+
