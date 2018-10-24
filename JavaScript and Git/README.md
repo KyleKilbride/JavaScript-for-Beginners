@@ -42,6 +42,7 @@ This will create a folder in your main directory called `code`! This is where we
 
 ![mkdir!](../Assets/2.png)
 
+#### Step 2
 Now we will use the `ls` command.
 
 `ls` stands for list. Using this command will list all files and folders in your current location.
@@ -50,9 +51,10 @@ Type `ls` and hit enter. It will show you a list of directories and folders. You
 
 ![Look, its the Dir you made!](../Assets/3.png)
 
+#### Step 3
 Now we will use the `cd <folder name>` command.
 
-`cd` stands for change directory. We want to move to the `code` directory that we just created. Type `cd code`. This will do just that.
+`cd` stands for change directory. We want to move to the `code` directory that we just created. Type `cd code` and hit enter.
 
 ![Now we are in the Code dir!](../Assets/4.png)
 
@@ -60,5 +62,37 @@ You will know it worked once you hit enter and the command line shows the your a
 
 This is where we will download our GitHub Repository!
 
-When you download a repository it is called `pulling`. 
+#### Step 4
+A `repository` is a storage space for code.
+
+When you download a repository it is called `pulling`. When you pull a repository it will put the entire up to date code base from the repository into your destination directory.
+
+The syntax is as follows: `git pull <repository address>`
+
+`git` is the command that tells the computer you would like to do something with a git repository.
+
+`pull` is what you want to do with the git repository.
+
+`<repository address>` is the address of the git repository you want to perform an action on. In this case we want to `pull`.
+
+You can find the `<repository address>` in the GitHub link [here](https://github.com/KyleKilbride/JavaScript-for-Beginners)
+
+Click the 'clone or download' button on the repository page. It will look like this:
+
+![5](../Assets/5.png) 
+
+Copy the HTTPS address to your clipboard.
+
+To `pull` this repository we want to type the following command in the `terminal` in our `code` directory:
+
+```bash
+git pull https://github.com/KyleKilbride/JavaScript-for-Beginners
+```
+Once it is `pulled` if you type `ls` in the terminal again you will see the directory called `JavaScript-for-Beginners` with this course!
+
+Now open the code editor we downloaded earlier: VisualStudio Code and open the folder we just `pulled` from GitHub.
+
+Now you have just completed the first unit! Congratulations!
+
+You may move along!
 
