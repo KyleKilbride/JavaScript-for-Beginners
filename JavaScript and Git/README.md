@@ -92,7 +92,7 @@ Once it is `pulled` if you type `ls` in the terminal again you will see the dire
 
 Now open the code editor we downloaded earlier: VisualStudio Code and open the folder we just `pulled` from GitHub.
 
-Now you have just completed the first unit! Congratulations!
+Now you have just completed the first unit! Congratulations! We have covered code, code editors, the terminal, and GIT. Now this is the most basic intro into these technologies. We will go deeper into them later on in the course.
 
-You may move along!
+You may move along to the next unit!
 
